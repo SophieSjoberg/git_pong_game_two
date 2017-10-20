@@ -5,4 +5,9 @@
 
 * Changes pulled
 * New changes made
-* Right back at you Mariza :) 
+* Right back at you Mariza :)
+
+** Seems like we are on the right track now **
+* Changes pulled
+* Changes added
+* Is you github updated with all the changes?
