@@ -21,3 +21,7 @@
 # Finally some success!
 * Changes pulled
 * Everything is up to date
+
+## We are equal to Borg and McEnroe
+* Chages pulled
+* README file starting to fill up
