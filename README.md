@@ -17,3 +17,7 @@
 * Changes pulled
 * Changes added
 * Everything updated on my github
+
+# Finally some success!
+* Changes pulled
+* Everything is up to date
