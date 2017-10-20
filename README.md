@@ -11,3 +11,9 @@
 * Changes pulled
 * Changes added
 * Is you github updated with all the changes?
+
+## We are the GitPong champions now.
+
+* Changes pulled
+* Changes added
+* Everything updated on my github
